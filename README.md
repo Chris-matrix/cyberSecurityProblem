@@ -46,4 +46,8 @@ The cybersecurity talent gap is a critical challenge that demands immediate atte
 
 ## Contributions
 
-We welcome contributions and insights from industry professionals, educators, and organizations interested in tackling this challenge. Together, we can create pathways for future cybersecurity talent.
+We welcome contributions and insights from industry professionals, educators, and organizations interested in tackling this challenge. Together, we can create pathways for future cybersecurity talent.  
+
+## DOC and Slides
+https://docs.google.com/document/d/1tG80qstEFJH_RiAdnq_vkALH6UEMpPC-ALogQjZd93s/edit?usp=sharing
+https://docs.google.com/presentation/d/1d7eZVZXPGpvXKoTHle1iZAaWlZtU5p3TnR69Pwfl9gM/edit?usp=sharing

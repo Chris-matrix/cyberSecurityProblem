@@ -50,4 +50,4 @@ We welcome contributions and insights from industry professionals, educators, an
 
 ## DOC and Slides
 https://docs.google.com/document/d/1tG80qstEFJH_RiAdnq_vkALH6UEMpPC-ALogQjZd93s/edit?usp=sharing
-https://docs.google.com/presentation/d/1d7eZVZXPGpvXKoTHle1iZAaWlZtU5p3TnR69Pwfl9gM/edit?usp=sharing
+https://gamma.app/docs/The-Growing-Challenge-of-Cybersecurity-2l5z9mrxt3t75qi

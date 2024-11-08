@@ -52,3 +52,6 @@ We welcome contributions and insights from industry professionals, educators, an
 ## DOC and Slides
 https://docs.google.com/document/d/1tG80qstEFJH_RiAdnq_vkALH6UEMpPC-ALogQjZd93s/edit?usp=sharing
 https://gamma.app/docs/Cybersecurity-Challenges-and-Solutions-pp8outrielzfglz
+## coding challenges 
+cyber security file named code challenge cy
+https://github.com/Chris-matrix/coding_challenges

@@ -1,5 +1,6 @@
 # Readme: Addressing the Cybersecurity Talent Gap
-
+##NOTE 
+This project to complte fully with take 6 months i only have 2 weeks so i will be updating this overtime 
 ## Overview
 
 The cybersecurity industry is currently experiencing a significant talent gap, which poses a serious challenge to the integrity and security of information systems across various sectors. This document outlines the current state of the talent shortage, its implications, and potential strategies for bridging the gap.

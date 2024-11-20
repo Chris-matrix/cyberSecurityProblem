@@ -60,8 +60,66 @@ Implement a comprehensive cybersecurity training program tailored for both techn
 2. Develop Training Materials.
 3. Schedule Training Sessions.
 4. Evaluate Effectiveness.
+## Launchpad user persona
+Here's a user persona for a student in a program to learn about the tech world and various programming languages:
 
-## Conclusion
+## Student Persona: Tech-Curious Tina
+
+**Demographics:**
+- Age: 18
+- Location: Phildelphia,PA
+- Education:Highschool diploma 
+- Current occupation: Launchpad student, photographer
+
+**Goals:**
+- Transition into a career in web development
+- Gain proficiency in CSS, Java, HTML, SQL, React, and GitHub
+- Build a portfolio of projects to showcase skills
+- Network with professionals in the tech industry
+
+**Challenges:**
+- Limited prior experience with programming
+- Balancing learning with current job responsibilities
+- Keeping up with rapidly evolving technologies
+- Overcoming imposter syndrome in a new field
+
+**Motivations:**
+- Higher earning potential in the tech industry
+- Desire for a more challenging and dynamic career
+- Interest in creating innovative digital solutions
+- Aspiration to work for a cutting-edge tech company
+
+**Learning Preferences:**
+- Hands-on, project-based learning
+- Collaborative study groups and pair programming
+- Online resources and video tutorials
+- Regular feedback and code reviews
+
+**Technical Environment:**
+- Uses a mid-range laptop for coding
+- Primarily works from home, occasionally at coffee shops
+- Has a stable internet connection
+- Uses Visual Studio Code as primary code editor
+
+**Personality Traits:**
+- Curious and eager to learn
+- Detail-oriented
+- Persistent in problem-solving
+- Open to constructive criticism
+
+**Information Sources:**
+- Tech blogs and news websites
+- YouTube coding tutorials
+- Stack Overflow for troubleshooting
+- GitHub repositories for open-source projects
+- LinkedIn for professional networking
+
+**Success Metrics:**
+- Completing course modules on time
+- Building functional web applications
+- Securing an internship or entry-level tech position
+- Receiving positive feedback from instructors and peers
+]
 The cybersecurity talent gap is a critical challenge that demands immediate attention from industry leaders, policymakers, educational institutions, and individuals. By collaboratively addressing the shortage of skilled workers, we can enhance the resilience of our cybersecurity infrastructure and ensure a safer digital future.
 
 ## Contributions
@@ -74,6 +132,8 @@ We welcome contributions and insights from industry professionals, educators, an
 ## Coding Challenges 
 Cybersecurity file named code challenge cy  
 [GitHub Repository](https://github.com/Chris-matrix/coding_challenges)
+
+
 
 Citations:
 [1] https://concero.com/overcoming-cybersecurity-skills-gap/

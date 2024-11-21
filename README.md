@@ -119,7 +119,54 @@ Here's a user persona for a student in a program to learn about the tech world a
 - Building functional web applications
 - Securing an internship or entry-level tech position
 - Receiving positive feedback from instructors and peers
-]
+
+]User Persona 2: Polly the Grandmother
+Name: Polly Anderson
+Age: 68
+Occupation: Retired School Teacher
+Location: Springfield, USA
+Background:
+Polly has spent most of her life in education and values learning and knowledge sharing.
+She is tech-savvy for her age, using a tablet and smartphone to stay connected with family and friends.
+Polly enjoys gardening, reading, and spending time with her grandchildren.
+Goals:
+To maintain a healthy lifestyle and stay active.
+To find engaging activities for her grandchildren when they visit.
+To keep up with family events and stay connected with loved ones through social media.
+Challenges:
+Navigating technology can sometimes be frustrating, especially when dealing with new apps or updates.
+She often feels overwhelmed by the amount of information available online and struggles to find trustworthy sources.
+Preferred Communication Channels:
+Email for formal communication.
+Facebook to connect with family and friends.
+Video calls (e.g., Zoom) to interact with grandchildren who live far away.
+Motivations:
+Family is her top priority; she wants to be involved in her grandchildren's lives.
+She seeks products that simplify her daily tasks and enhance her quality of life.
+
+User Persona 3: Jeff the CEO
+Name: Jeff Thompson
+Age: 45
+Occupation: CEO of Tech Innovations Inc.
+Location: San Francisco, CA
+Background:
+Jeff has over 20 years of experience in the tech industry, having worked his way up from software engineer to executive leadership.
+He holds an MBA from a prestigious university and is known for his strategic thinking and visionary leadership style.
+Goals:
+To drive company growth through innovation and market expansion.
+To foster a strong company culture that attracts top talent.
+To implement sustainable practices within the organization.
+Challenges:
+Balancing short-term performance pressures with long-term strategic goals.
+Keeping up with rapid technological changes and ensuring the company remains competitive.
+Managing diverse teams across different locations while maintaining effective communication.
+Preferred Communication Channels:
+Email for formal communications and reports.
+Slack or Microsoft Teams for quick team interactions.
+In-person meetings or video conferences for strategic discussions.
+Motivations:
+Passionate about technology and its potential to improve lives; he seeks to lead projects that have a meaningful impact.
+Values data-driven decision-making; he relies on analytics to guide his strategies.
 The cybersecurity talent gap is a critical challenge that demands immediate attention from industry leaders, policymakers, educational institutions, and individuals. By collaboratively addressing the shortage of skilled workers, we can enhance the resilience of our cybersecurity infrastructure and ensure a safer digital future.
 
 ## Contributions

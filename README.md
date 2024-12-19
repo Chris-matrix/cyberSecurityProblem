@@ -184,10 +184,17 @@ Cybersecurity file named code challenge cy
 
 Citations:
 [1] https://concero.com/overcoming-cybersecurity-skills-gap/
+
 [2] https://educate360.com/blog/cybersecurity-skills-gap/
+
 [3] https://www.cyberdefensemagazine.com/bridging-the-widening-gap-in-cybersecurity-talent-addressing-the-urgent-need-for-skilled-professionals/
+
 [4] https://www.weforum.org/stories/2024/07/why-closing-the-cyber-skills-gap-requires-a-collaborative-approach/
+
 [5] https://fieldeffect.com/blog/overcoming-the-cybersecurity-talent-shortage
+
 [6] https://lightcast.io/resources/research/quarterly-cybersecurity-talent-report-june-24
+
 [7] https://www.vcomsolutions.com/blog/strategies-for-addressing-the-cybersecurity-skills-gap
+
 [8] https://sprinto.com/blog/importance-of-cyber-security/

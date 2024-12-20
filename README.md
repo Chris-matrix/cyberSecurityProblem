@@ -1,200 +1,132 @@
-# Readme: Addressing the Cybersecurity Talent Gap
+**What is the problem:**
+Despite security advancements, individuals are experiencing more malware attacks on personal devices, leading to data loss and privacy breaches. Non-technical users lack cybersecurity awareness to address threats, and organizations struggle to detect advanced persistent threats (APTs), leaving users vulnerable.
 
-## NOTE
-This project will take 6 months to complete fully; I only have 2 weeks, so I will be updating this over time.
+**Type of cyber threats:**
 
-## Overview
-The cybersecurity industry is currently experiencing a significant talent gap, which poses a serious challenge to the integrity and security of information systems across various sectors. This document outlines the current state of the talent shortage, its implications, and potential strategies for bridging the gap.
+**Introduction**
+These are the most common types of cybersecurity threats faced by individuals and businesses, emphasizing the need for strong cybersecurity policies and prevention strategies to mitigate these risks.
 
-## Context
-- **Current Landscape (2024)**: As reported by Lightcast.io, the U.S. has over **1.5 million cybersecurity job openings**, while only about **1.28 million cybersecurity professionals** are available. This results in a considerable **shortage of approximately 225,200 professionals**.
-  
-- **Demand for Skilled Professionals**: The demand for cybersecurity talent spans multiple industries, with critical shortages predominantly seen in mid-level roles, which typically require **2-10 years of experience**. This gap is particularly concerning as these positions are crucial for the effective management and mitigation of security threats.
+**Common Cyber Threats for a Business:**
 
-## Key Statistics
-- **Cybersecurity Job Openings**: 1.5 million
-- **Available Cybersecurity Workers**: 1.28 million
-- **Talent Gap**: 225,200 professionals
+1. **Malware**
+   - **Definition:** Malicious software designed to compromise the confidentiality, integrity, or availability of data.
+   - **Types:** Includes viruses, worms, trojans, and spyware.
+   - **Impact:** Can cause extensive damage and disruption to operations.
+   - **Preventive Measures:**
+     - Scan email attachments and restrict certain file types (e.g., .exe files).
+     - Limit use of removable media in high-risk systems.
+     - Regular updates of operating systems and applications.
 
-## Implications of the Talent Gap
-The ongoing talent shortage in the cybersecurity field has several important implications:
-1. **Increased Vulnerability**: Organizations may struggle to find skilled professionals to defend against cyber threats, leaving them more susceptible to attacks.
-  
-2. **Higher Salaries and Competition**: A limited talent pool typically drives up salaries and benefits, leading to increased competition among companies for skilled professionals.
-  
-3. **Overwork and Burnout**: Existing cybersecurity teams may be overworked, leading to increased stress, burnout, and high turnover rates.
+2. **Ransomware**
+   - **Definition:** A specific type of malware that encrypts files on a victim's computer, requiring payment (usually in cryptocurrency) to regain access.
+   - **Impact:** Prevents legitimate access, holds data hostage, and can be difficult to detect before damage occurs.
+   - **Preventive Measures:**
+     - Employee training on ransomware threats.
+     - Strong information security controls.
+     - Development of business continuity and incident response plans.
 
-4. **Slower Growth and Innovation**: The talent gap can hinder the ability of organizations to grow and innovate, particularly in technology-dependent sectors.
+3. **Distributed Denial of Service (DDoS) Attacks**
+   - **Definition:** Attacks that overwhelm online services by flooding them with excessive traffic from multiple sources.
+   - **Impact:** Makes websites or online services unavailable and can serve as a distraction for other malicious activities.
+   - **Preventive Measures:**
+     - Implement robust network security measures.
+     - Monitor traffic for unusual patterns.
+     - Develop a DDoS response strategy.
 
-## Bridging the Talent Gap
-To address this pressing issue, stakeholders across the industry must implement various strategies, including:
-- **Investing in Training and Upskilling**: Organizations should prioritize training programs, partnerships with educational institutions, and mentorship initiatives to help cultivate new talent.
-  
-- **Promoting Cybersecurity as a Career**: Awareness campaigns and outreach efforts can help attract more individuals to consider careers in cybersecurity, particularly underrepresented populations.
+4. **Spam and Phishing**
+   - **Definitions:**
+     - **Spam:** Unsolicited emails or messages.
+     - **Phishing:** Attempts to deceive users into providing sensitive information by pretending to be a trustworthy entity.
+   - **Impact:** Leads to identity theft and financial fraud.
+   - **Preventive Measures:**
+     - Employee training on identifying phishing attempts.
+     - Use secure email gateways to filter out unsolicited messages.
+     - Implement two-factor authentication for sensitive accounts.
 
-- **Encouraging Certifications and Continuous Learning**: Encouraging professionals to pursue industry-recognized certifications can help ensure that the workforce is well-equipped to meet current challenges.
+5. **Corporate Account Takeover (CATO)**
+   - **Definition:** An attack where cybercriminals impersonate a business to perform unauthorized transactions.
+   - **Impact:** Significant financial losses due to unauthorized wire and ACH transactions.
+   - **Preventive Measures:**
+     - Strengthen computer safeguards and access controls.
+     - Regular audits of online banking systems.
 
-- **Creating Inclusive Work Environments**: Emphasizing diversity and inclusion can open the door to a wider talent pool and drive innovation in problem-solving and security strategies.
+6. **Automated Teller Machine (ATM) Cash Out**
+   - **Definition:** A type of fraud involving simultaneous large withdrawals from ATMs, often through compromised systems.
+   - **Impact:** Can lead to substantial financial losses for institutions, particularly smaller ones.
+   - **Preventive Measures:**
+     - Review controls over ATM parameters and withdrawal policies.
+     - Implement fraud detection measures and monitor suspicious activities.
 
-## Common Problem and Solution
+**Type of Cyber Threats for a Normal Person:**
 
-### Task: Enhance Cybersecurity Awareness and Training
+1. **Viruses**
+   - Malicious programs that attach themselves to legitimate software and spread to other files or computers when the infected program is executed.
 
-#### Problem Identification
-Both technical and non-technical individuals often struggle with:
-- Understanding Cyber Threats
-- Recognizing Security Best Practices
-- Responding to Incidents
+2. **Worms**
+   - Self-replicating malware that spreads across networks without needing to attach to other programs. They can exploit vulnerabilities in the operating system.
 
-#### Proposed Solution
-Implement a comprehensive cybersecurity training program tailored for both technical and non-technical staff that includes:
-1. Awareness Campaigns
-2. Training Workshops
-3. Simulated Phishing Exercises
-4. Regular Updates and Refresher Courses
-5. Create a Cybersecurity Culture
-6. Utilize Technology
+3. **Trojan Horses**
+   - Malware disguised as legitimate software that tricks users into installing it. Once installed, it can create back doors for other malware or steal information.
 
-### Implementation Steps
-1. Assess Current Knowledge Levels.
-2. Develop Training Materials.
-3. Schedule Training Sessions.
-4. Evaluate Effectiveness.
-## Launchpad user persona
-Here's a user persona for a student in a program to learn about the tech world and various programming languages:
+4. **Spyware**
+   - Software that secretly monitors user activity and collects personal information, such as passwords and browsing habits, without consent.
 
-## Student Persona: Tech-Curious Tina
+5. **Adware**
+   - Software that automatically delivers advertisements, often in a disruptive way. While not always harmful, it can slow down devices and may be bundled with more malicious software.
 
-**Demographics:**
-- Age: 18
-- Location: Phildelphia,PA
-- Education:Highschool diploma 
-- Current occupation: Launchpad student, photographer
+6. **Ransomware**
+   - A type of malware that locks or encrypts files on a user’s device, demanding payment to restore access. This can be particularly devastating for personal or sensitive information.
 
-**Goals:**
-- Transition into a career in web development
-- Gain proficiency in CSS, Java, HTML, SQL, React, and GitHub
-- Build a portfolio of projects to showcase skills
-- Network with professionals in the tech industry
+7. **Rootkits**
+   - Tools that allow unauthorized users to gain control over a computer without being detected. They can hide other malware and operate stealthily in the background.
 
-**Challenges:**
-- Limited prior experience with programming
-- Balancing learning with current job responsibilities
-- Keeping up with rapidly evolving technologies
-- Overcoming imposter syndrome in a new field
+8. **Keyloggers**
+   - Software that records keystrokes made on a keyboard, capturing sensitive information such as passwords and credit card numbers.
 
-**Motivations:**
-- Higher earning potential in the tech industry
-- Desire for a more challenging and dynamic career
-- Interest in creating innovative digital solutions
-- Aspiration to work for a cutting-edge tech company
+9. **Browser Hijackers**
+   - Malware that alters a web browser's settings without permission, redirecting users to unwanted websites and changing homepage settings.
 
-**Learning Preferences:**
-- Hands-on, project-based learning
-- Collaborative study groups and pair programming
-- Online resources and video tutorials
-- Regular feedback and code reviews
+10. **Cryptojacking**
+    - Malware that uses a victim's device to mine cryptocurrencies without their knowledge, slowing down performance and increasing electricity bills.
 
-**Technical Environment:**
-- Uses a mid-range laptop for coding
-- Primarily works from home, occasionally at coffee shops
-- Has a stable internet connection
-- Uses Visual Studio Code as primary code editor
+**Preventive Measures:**
+- Keep operating systems and apps updated.
+- Use reputable antivirus and anti-malware software.
+- Be cautious of email attachments and links, especially from unknown sources.
+- Regularly backup important data.
+- Avoid downloading software from untrustworthy websites.
 
-**Personality Traits:**
-- Curious and eager to learn
-- Detail-oriented
-- Persistent in problem-solving
-- Open to constructive criticism
+**Solutions:**
 
-**Information Sources:**
-- Tech blogs and news websites
-- YouTube coding tutorials
-- Stack Overflow for troubleshooting
-- GitHub repositories for open-source projects
-- LinkedIn for professional networking
+**For a Tech Person:**
+To effectively combat malware threats, organizations should adopt a multi-layered defense strategy. This includes deploying advanced Endpoint Detection and Response (EDR) solutions that utilize machine learning to identify and respond to Advanced Persistent Threats (APTs). Regular security audits and penetration testing can help uncover vulnerabilities before they are exploited. Implementing a Security Information and Event Management (SIEM) system allows for centralized monitoring and rapid threat mitigation. Additionally, comprehensive user education programs, including phishing simulations, enhance awareness of cybersecurity threats. Finally, a rigorous patch management policy ensures timely updates of all systems and applications to protect against known vulnerabilities. By integrating these measures, organizations can significantly reduce their risk of malware attacks and data breaches.
 
-**Success Metrics:**
-- Completing course modules on time
-- Building functional web applications
-- Securing an internship or entry-level tech position
-- Receiving positive feedback from instructors and peers
-
-]User Persona 2: Polly the Grandmother
-Name: Polly Anderson
-Age: 68
-Occupation: Retired School Teacher
-Location: Springfield, USA
-Background:
-Polly has spent most of her life in education and values learning and knowledge sharing.
-She is tech-savvy for her age, using a tablet and smartphone to stay connected with family and friends.
-Polly enjoys gardening, reading, and spending time with her grandchildren.
-Goals:
-To maintain a healthy lifestyle and stay active.
-To find engaging activities for her grandchildren when they visit.
-To keep up with family events and stay connected with loved ones through social media.
-Challenges:
-Navigating technology can sometimes be frustrating, especially when dealing with new apps or updates.
-She often feels overwhelmed by the amount of information available online and struggles to find trustworthy sources.
-Preferred Communication Channels:
-Email for formal communication.
-Facebook to connect with family and friends.
-Video calls (e.g., Zoom) to interact with grandchildren who live far away.
-Motivations:
-Family is her top priority; she wants to be involved in her grandchildren's lives.
-She seeks products that simplify her daily tasks and enhance her quality of life.
-
-User Persona 3: Jeff the CEO
-Name: Jeff Thompson
-Age: 45
-Occupation: CEO of Tech Innovations Inc.
-Location: San Francisco, CA
-Background:
-Jeff has over 20 years of experience in the tech industry, having worked his way up from software engineer to executive leadership.
-He holds an MBA from a prestigious university and is known for his strategic thinking and visionary leadership style.
-Goals:
-To drive company growth through innovation and market expansion.
-To foster a strong company culture that attracts top talent.
-To implement sustainable practices within the organization.
-Challenges:
-Balancing short-term performance pressures with long-term strategic goals.
-Keeping up with rapid technological changes and ensuring the company remains competitive.
-Managing diverse teams across different locations while maintaining effective communication.
-Preferred Communication Channels:
-Email for formal communications and reports.
-Slack or Microsoft Teams for quick team interactions.
-In-person meetings or video conferences for strategic discussions.
-Motivations:
-Passionate about technology and its potential to improve lives; he seeks to lead projects that have a meaningful impact.
-Values data-driven decision-making; he relies on analytics to guide his strategies.
-The cybersecurity talent gap is a critical challenge that demands immediate attention from industry leaders, policymakers, educational institutions, and individuals. By collaboratively addressing the shortage of skilled workers, we can enhance the resilience of our cybersecurity infrastructure and ensure a safer digital future.
-
-## Contributions
-We welcome contributions and insights from industry professionals, educators, and organizations interested in tackling this challenge. Together, we can create pathways for future cybersecurity talent.
-
-## DOC and Slides
-[Google Document](https://docs.google.com/document/d/1tG80qstEFJH_RiAdnq_vkALH6UEMpPC-ALogQjZd93s/edit?usp=sharing)  
-[Presentation Slides](https://gamma.app/docs/Cybersecurity-Challenges-and-Solutions-pp8outrielzfglz)
-
-## Coding Challenges 
-Cybersecurity file named code challenge cy  
-[GitHub Repository](https://github.com/Chris-matrix/coding_challenges)
+**For a Non-Technical Person:**
+To enhance cybersecurity for non-technical individuals, start by installing reputable antivirus and anti-malware software with real-time protection and automatic updates. Participate in basic cybersecurity training to recognize common threats like phishing emails and suspicious downloads. Practice safe browsing by verifying website legitimacy and being cautious with unfamiliar links. Regularly back up important files to an external hard drive or trusted cloud service to safeguard against data loss. Finally, enable two-factor authentication on sensitive accounts for added security. By following these straightforward steps, individuals can significantly improve their protection against malware and cyber threats.
 
 
+**Slides and Research doc**
+https://gamma.app/docs/Cybersecurity-Challenges-and-Solutions-pp8outrielzfglz?mode=doc
+https://docs.google.com/document/d/1tG80qstEFJH_RiAdnq_vkALH6UEMpPC-ALogQjZd93s/edit?usp=sharing
 
-Citations:
-[1] https://concero.com/overcoming-cybersecurity-skills-gap/
+Reference links:
 
-[2] https://educate360.com/blog/cybersecurity-skills-gap/
+1. [Massachusetts Division of Banks - Cybersecurity Guidelines for Financial Institutions](https://www.mass.gov/guides/cybersecurity-guidelines-for-financial-institutions)
 
-[3] https://www.cyberdefensemagazine.com/bridging-the-widening-gap-in-cybersecurity-talent-addressing-the-urgent-need-for-skilled-professionals/
+2. [Symantec Internet Security Threat Report](https://www.broadcom.com/company/newsroom/press-releases?filtrers=1516&category=internet-security-threat-report)
 
-[4] https://www.weforum.org/stories/2024/07/why-closing-the-cyber-skills-gap-requires-a-collaborative-approach/
+3. [Verizon DBIR - 2024 Data Breach Investigations Report](https://enterprise.verizon.com/resources/reports/dbir/)
 
-[5] https://fieldeffect.com/blog/overcoming-the-cybersecurity-talent-shortage
+4. [CISA - Ransomware Guide](https://www.cisa.gov/stopransomware)
 
-[6] https://lightcast.io/resources/research/quarterly-cybersecurity-talent-report-june-24
+5. [McAfee Threats Report - 2024 Threats Predictions Report](https://www.mcafee.com/enterprise/en-us/security-awareness/reports/threats-predictions-2024.html)
 
-[7] https://www.vcomsolutions.com/blog/strategies-for-addressing-the-cybersecurity-skills-gap
+6. [Cloudflare - DDoS Attack Types](https://www.cloudflare.com/learning/ddos/ddos-attack-types/)
 
-[8] https://sprinto.com/blog/importance-of-cyber-security/
+7. [Imperva - DDoS Protection](https://www.imperva.com/learn/ddos/ddos-protection/)
+
+8. [NIST - Framework for Improving Critical Infrastructure Cybersecurity](https://www.nist.gov/cyberframework)
+
+9. [CSO Online - The Importance of Cybersecurity for Businesses](https://www.csoonline.com/article/3651333/why-cybersecurity-needs-to-be-a-top-priority-for-small-businesses.html)
+
+10. [Kaspersky - How to Protect Yourself from Internet Threats](https://www.kaspersky.com/resource-center/preemptive-safety/how-to-protect-yourself-from-internet-threats)

@@ -1,7 +1,11 @@
 **What is the problem:**
+
 Despite security advancements, individuals are experiencing more malware attacks on personal devices, leading to data loss and privacy breaches. Non-technical users lack cybersecurity awareness to address threats, and organizations struggle to detect advanced persistent threats (APTs), leaving users vulnerable.
 
+
+
 **Type of cyber threats:**
+
 
 **Introduction**
 These are the most common types of cybersecurity threats faced by individuals and businesses, emphasizing the need for strong cybersecurity policies and prevention strategies to mitigate these risks.
